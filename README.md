@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Bonjour, je suis Ali Kizungi
 
-<!--
-**alikizungi/alikizungi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌍 Assistant Social & Consultant Digital | Uvira - Baraka, RDC
 
-Here are some ideas to get you started:
+Bienvenue sur mon profil professionnel. Passionné par l'impact communautaire et l'innovation numérique, je travaille pour allier l'accompagnement humain aux outils technologiques modernes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Ce que je fais :
+- **Accompagnement Social :** Orientation, conseils et soutien aux familles et individus au Sud-Kivu.
+- **Transformation Digitale :** Aide aux organisations locales et ASBL pour booster leur visibilité en ligne.
+- **Motivation & Leadership :** Engagé pour l'épanouissement de la jeunesse.
+
+---
+
+### 📩 Me contacter :
+- **Email :** alikizungi@gmail.com
+- **Blog :** [alikizungi.blogspot.com](https://alikizungi.blogspot.com)
