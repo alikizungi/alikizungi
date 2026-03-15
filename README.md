@@ -16,3 +16,9 @@ Bienvenue sur mon profil professionnel. Passionné par l'impact communautaire et
 ### 📩 Me contacter :
 - **Email :** alikizungi@gmail.com
 - **Blog :** [alikizungi.blogspot.com](https://alikizungi.blogspot.com)
+Site: https://alikizungi.wordpress.com
+  https://about.me/alikizungi
+  https://.kizungi.substack.com
+  https://X.com/Alikizungi
+  https://www.facebook.com/alikizungi
+  linktr.ee/alikizungi
