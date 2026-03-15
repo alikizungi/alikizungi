@@ -19,7 +19,7 @@ Bienvenue sur mon profil professionnel. Passionné par l'impact communautaire et
 - **Blog :** [alikizungi.blogspot.com](https://alikizungi.blogspot.com)
 Site: https://alikizungi.wordpress.com
   https://about.me/alikizungi
-  https://.kizungi.substack.com
+  https://kizungi.substack.com
   https://X.com/Alikizungi
   https://www.facebook.com/alikizungi
   https://linktr.ee/alikizungi
